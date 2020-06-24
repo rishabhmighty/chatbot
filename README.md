@@ -1,2 +1,2 @@
 # chatbot
-whatsapp cahtbot
+whatsapp chatbot
